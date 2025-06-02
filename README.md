@@ -23,7 +23,17 @@ Ideal for professionals and students in architecture, biology, microscopy, and a
 
 ## 🖼️ Screenshots
 
-(Include screenshots of the app in use here)
+### 🆘 Help
+
+![Help](/Screenshots/1.PNG)
+
+### 📏 Scale with known measure of 1 cm
+
+![Scale](/Screenshots/2.PNG)
+
+###  📐 Measure polygon area and perimeter 
+
+![Measure](/Screenshots/3.PNG)
 
 ## 📥 Installation
 
